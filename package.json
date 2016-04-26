@@ -1,0 +1,22 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "Node web scrapper",
+  "main": "scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramses-lopez/scrapper.git"
+  },
+  "author": "ramses.lopezs@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ramses-lopez/scrapper/issues"
+  },
+  "homepage": "https://github.com/ramses-lopez/scrapper#readme",
+  "dependencies": {
+    "xml2json": "^0.9.0"
+  }
+}
